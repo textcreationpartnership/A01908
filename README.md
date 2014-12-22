@@ -34,18 +34,22 @@ This keyboarded and encoded edition of the
 
 #####Front#####
 
-1. ¶The Prohemye of the Authour.
+1. ¶The maydens dreme Compyled and made by Chryſtofer Goodwyn, In the yere of our Lorde. M.CCCCC.xlij.
+
+    _ ¶The Prohemye of the Authour.
 
 #####Body#####
 
-1. ¶The mayden.
-¶The mayden.THen dyd I thanke, theſe ladyes both twayneFor the good counceyll, that they dyd me gyue
-1. ¶Lenuoy of the Authour.
+1. ¶The maydens Dreme.
 
-1. ¶The Authours name.
+    _ ¶The mayden.
+¶The mayden.THen dyd I thanke, theſe ladyes both twayneFor the good counceyll, that they dyd me gyue
+    _ ¶Lenuoy of the Authour.
+
+    _ ¶The Authours name.
 
 #####Back#####
-The maydens dreme compyled and made by Chrystofer Goodwyn, in the yere of our Lorde. M.CCCCC.xlijSon
+¶Imprynted by me Robert wyet, For Richarde Bankes.¶Cum priuilegio Regali.
 **Types of content**
 
   * There are 406 **verse** lines!
